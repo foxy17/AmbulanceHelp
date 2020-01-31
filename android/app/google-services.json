@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1069256961347",
+    "firebase_url": "https://pragmatic-star-266013.firebaseio.com",
+    "project_id": "pragmatic-star-266013",
+    "storage_bucket": "pragmatic-star-266013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069256961347:android:4ac0f9b4397e3942e393f6",
+        "android_client_info": {
+          "package_name": "arv.amb_loc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069256961347-4ba4vn1i6bcoa6td5t5c6thlcadg5skp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgwamatm1x2j7yXbemhQA07lex8tdK450"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069256961347-4ba4vn1i6bcoa6td5t5c6thlcadg5skp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

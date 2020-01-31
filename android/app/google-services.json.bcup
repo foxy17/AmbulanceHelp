@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81335380074",
+    "firebase_url": "https://marathon-dashboard-d86de.firebaseio.com",
+    "project_id": "marathon-dashboard-d86de",
+    "storage_bucket": "marathon-dashboard-d86de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81335380074:android:38d8db1db4f4b003708213",
+        "android_client_info": {
+          "package_name": "arv.amb_loc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81335380074-b6c1q056nb0tmt4ucj3jkhcf5596mc2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh7zuTHoJn9jOUZmB4QR6BVkeDl-KombY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81335380074-b6c1q056nb0tmt4ucj3jkhcf5596mc2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
